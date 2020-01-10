@@ -13,4 +13,4 @@ npm run develop
 
 http://localhost:8000
 
-Edit a file and the page reloads in real time. For example, editing the markdown file `gatsby-starter-deck/src/slides/01-intro.md1` triggers the [intro page](http://localhost:8000/1) to auto-update live.
+Edit a file and the page reloads in real time. For example, editing the markdown file `gatsby-starter-deck/src/slides/01-intro.md` triggers the [intro page](http://localhost:8000/1) to auto-update live.
